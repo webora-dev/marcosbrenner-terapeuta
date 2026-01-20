@@ -30,10 +30,10 @@ const FinalCTA = () => {
             O primeiro passo pode começar com uma conversa acolhedora e respeitosa.
           </p>
 
-          <Button variant="whatsapp" size="xl" asChild>
-            <a href={WHATSAPP_LINK} target="_blank" rel="noopener noreferrer">
-              <MessageCircle className="mr-2" />
-              Agendar atendimento pelo WhatsApp
+          <Button variant="whatsapp" size="xl" className="w-full sm:w-auto whitespace-normal text-center h-auto py-4 px-4 sm:px-10" asChild>
+            <a href={WHATSAPP_LINK} target="_blank" rel="noopener noreferrer" className="flex items-center justify-center">
+              <MessageCircle className="mr-2 flex-shrink-0" />
+              <span>Agendar atendimento pelo WhatsApp</span>
             </a>
           </Button>
         </div>

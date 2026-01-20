@@ -38,7 +38,7 @@ const Header = () => {
           <img
             src={logo}
             alt="Instituto Restaurar - Terapia Integrativa e Emocional"
-            className="h-24 md:h-28 w-auto"
+            className="h-32 md:h-40 w-auto"
           />
         </a>
 

@@ -26,21 +26,21 @@ const About = () => {
           {/* Content Side */}
           <div className="order-1 lg:order-2">
             <span className="inline-block px-4 py-1.5 bg-primary/10 text-primary rounded-full text-sm font-medium mb-6">
-              Quem Somos
+              Quem Sou
             </span>
             
             <h2 className="font-serif text-3xl md:text-4xl lg:text-5xl font-semibold text-foreground mb-6 leading-tight">
-              Sobre o Instituto Restaurar
+              Sobre Marcos Brenner
             </h2>
             
             <div className="gold-line w-20 mb-8" />
             
             <div className="space-y-4 text-muted-foreground text-lg leading-relaxed mb-10">
               <p>
-                O Instituto Restaurar nasceu com o propósito de cuidar da saúde emocional de indivíduos, casais e famílias, unindo técnicas terapêuticas integrativas, princípios emocionais e valores cristãos.
+                Sou Terapeuta Integrativo & Emocional Cristão, com atuação no cuidado da saúde emocional de indivíduos, casais e famílias.
               </p>
               <p>
-                O atendimento é baseado no acolhimento, na escuta ativa e no respeito à história, à fé e ao ritmo de cada pessoa, oferecendo apoio emocional em momentos de dificuldade, conflitos e transições da vida.
+                Minha abordagem une técnicas terapêuticas integrativas, princípios emocionais e valores cristãos, respeitando a história, a fé e o ritmo de cada pessoa. O atendimento é baseado em acolhimento, escuta ativa e apoio emocional, sempre com ética, sensibilidade e responsabilidade.
               </p>
             </div>
 

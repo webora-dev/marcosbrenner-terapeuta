@@ -11,10 +11,10 @@ const Footer = () => {
             <img
               src={logo}
               alt="Instituto Restaurar"
-              className="h-24 md:h-28 w-auto mb-6 brightness-0 invert opacity-90"
+              className="h-28 md:h-32 w-auto mb-6 brightness-0 invert opacity-90"
             />
             <p className="text-white/70 leading-relaxed max-w-md">
-              Terapia Integrativa e Emocional com valores cristãos. Cuidando de indivíduos, casais e famílias com acolhimento e respeito.
+              Terapia Integrativa e Emocional com valores cristãos. Cuidando de indivíduos, individuais, casais e famílias com acolhimento e respeito.
             </p>
           </div>
 

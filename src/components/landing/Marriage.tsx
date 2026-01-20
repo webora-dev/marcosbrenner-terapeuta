@@ -34,12 +34,12 @@ const Marriage = () => {
             <Button 
               variant="whatsapp" 
               size="xl" 
-              className="bg-white text-primary hover:bg-white/90"
+              className="bg-white text-primary hover:bg-white/90 w-full sm:w-auto whitespace-normal text-center h-auto py-4 px-4 sm:px-10"
               asChild
             >
-              <a href={WHATSAPP_LINK} target="_blank" rel="noopener noreferrer">
-                <MessageCircle className="mr-2" />
-                Quero restaurar meu relacionamento
+              <a href={WHATSAPP_LINK} target="_blank" rel="noopener noreferrer" className="flex items-center justify-center">
+                <MessageCircle className="mr-2 flex-shrink-0" />
+                <span>Quero restaurar meu relacionamento</span>
               </a>
             </Button>
           </div>

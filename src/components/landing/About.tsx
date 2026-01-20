@@ -37,7 +37,7 @@ const About = () => {
             
             <div className="space-y-4 text-muted-foreground text-lg leading-relaxed mb-10">
               <p>
-                Sou Terapeuta Integrativo & Emocional Cristão, com atuação no cuidado da saúde emocional de indivíduos, casais e famílias.
+                Sou Terapeuta Integrativo & Emocional Cristão, com atuação no cuidado da saúde emocional, individual, casais e famílias.
               </p>
               <p>
                 Minha abordagem une técnicas terapêuticas integrativas, princípios emocionais e valores cristãos, respeitando a história, a fé e o ritmo de cada pessoa. O atendimento é baseado em acolhimento, escuta ativa e apoio emocional, sempre com ética, sensibilidade e responsabilidade.

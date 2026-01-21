@@ -25,7 +25,7 @@ const Hero = () => {
           </p>
           
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-serif font-semibold text-white leading-tight mb-6 animate-fade-in-up" style={{ animationDelay: '0.1s' }}>
-            Restauração emocional para indivíduos, casais e famílias
+            Restauração emocional e aconselhamentos individuais e para casais.
           </h1>
           
           <p className="text-lg md:text-xl text-white/90 mb-8 leading-relaxed max-w-2xl animate-fade-in-up" style={{ animationDelay: '0.2s' }}>
